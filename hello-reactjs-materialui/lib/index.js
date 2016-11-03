@@ -1,3 +1,4 @@
+import "font-roboto/dist/styles/roboto.min.css";
 import injectTapEventPlugin from "react-tap-event-plugin";
 import React, {
   Component,
