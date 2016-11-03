@@ -1,0 +1,4 @@
+{
+  "dhis2": "postgres://dhis:dhis@localhost:5432/dhis2sl",
+  "user": "postgres://mortenoh:@localhost:5432/mortenoh"
+}
